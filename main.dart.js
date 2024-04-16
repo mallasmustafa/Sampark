@@ -62098,7 +62098,7 @@ nv(){var s=0,r=A.W(t.z),q,p,o,n,m,l
 var $async$nv=A.X(function(a,b){if(a===1)return A.T(b,r)
 while(true)switch(s){case 0:try{o=document
 n=o.createElement("a")
-n.href="https://github.com/mallasmustafa/Sampark/releases/download/1.0/Sampark.apk"
+n.href="https://github.com/mallasmustafa/Sampark/releases/download/1.1.0/Sampark1.1.0.apk"
 n.download="Sampark.apk"
 q=n
 m=o.body
